@@ -51,7 +51,7 @@ public class GUI implements ActionListener{
 
         jLabel = new JLabel();
         jLabel.setBounds(450,10,450,30);
-        jLabel.setText("04 BAND RESISTANCE CALCULATOR ");
+        jLabel.setText("4 BAND RESISTANCE CALCULATOR ");
         jLabel.setFont(font);
         jLabel.setBorder(BorderFactory.createLineBorder(Color.black));
 
